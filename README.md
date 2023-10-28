@@ -8,6 +8,7 @@ This repository provides all the data, code, notebook, and the trained models re
 - Using [./train.py](./train.py) for training and [./predict.py](./predict.py) for prediction
 - Using the notebook [./reproduce.ipynb](./reproduce.ipynb) to see the results and figures of our paper
 - The trained models can be found under the [models](./models) folder
+- The full list of surveyed paper can be found in [surveyed_paper.md](surveyed_paper.md)
 
 ## Setup environment
 
